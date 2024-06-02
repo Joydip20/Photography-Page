@@ -128,8 +128,3 @@ h2{
         font-size: 28px;
     }
 }
-@media(orientation:landscape){
-    .text-center{
-        height: 700vh;
-    }
-}
