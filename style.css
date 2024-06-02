@@ -119,7 +119,7 @@ h2{
 }
 @media(max-width:740px){
     .text-center{
-        height: 500vh;
+        height: 100%;
     }
     .container-fluid h1{
         font-size: 70px;
